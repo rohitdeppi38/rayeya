@@ -351,4 +351,4 @@ Incoming WhatsApp Message (Meta Webhook)
 
 ---
 
-> Built with Next.js 14 · TypeScript · Tailwind CSS · OpenAI API
+> Built with Next.js 14 · TypeScript · Tailwind CSS · Api of openAI
